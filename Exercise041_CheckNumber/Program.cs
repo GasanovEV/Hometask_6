@@ -54,6 +54,7 @@ int GetNumberFromUser(string message, string errorMessage)
     }
 }
 
+/*Метод подсчитывает количество положительных чисел*/
 int GetPositiveNumbers(int[] array)
 {
     int count = 0;
